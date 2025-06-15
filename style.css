@@ -1,0 +1,65 @@
+body{
+    font-family : "Bree Serif", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
+    background-color: aqua;
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+}
+
+h2{
+    margin-left: -15px;
+}
+
+.container{
+    max-width: 500px;
+    margin: 26px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    padding-bottom: 50px;
+}
+
+input , button {
+    padding: 10px;
+    width: 66%;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.weather-info {
+   transition: opacity 0.3s ease-in-out;
+}
+.weather-info.hidden{
+    display: none;
+}
+
+#map{
+    height: 250px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+@media (max-width:600px){
+    .container{
+        margin: 1rem;
+        padding: 1rem;
+    }
+
+    input , button{
+        width: 90%;
+    }
+}
