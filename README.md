@@ -28,8 +28,7 @@ Built using **HTML**, **CSS**, and **JavaScript** with additional support for ma
 
 ## 🚀 Live Demo
 
-[Click here to see it live](https://your-deployed-site-link.com)  
-*(Replace this link with your actual GitHub Pages or deployment URL)*
+[Click here to see it live]
 http://127.0.0.1:5501/Weather-app/index.html
 ---
 
