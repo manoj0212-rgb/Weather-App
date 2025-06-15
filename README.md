@@ -22,7 +22,7 @@ Built using **HTML**, **CSS**, and **JavaScript** with additional support for ma
 
 ## 📸 Demo Screenshot
 
-![Weather App Screenshot](Weather-app.png) <!-- Add your actual screenshot file if available -->
+![Weather App Screenshot](Weather-App.png) <!-- Add your actual screenshot file if available -->
 
 ---
 
