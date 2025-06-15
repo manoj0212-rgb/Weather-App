@@ -29,7 +29,7 @@ Built using **HTML**, **CSS**, and **JavaScript** with additional support for ma
 ## 🚀 Live Demo
 
 [Click here to see it live]
-http://127.0.0.1:5501/Weather-app/index.html
+ (https://manoj0212-rgb.github.io/Weather-App/)
 ---
 
 ## ⚙️ Tech Stack
